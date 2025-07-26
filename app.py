@@ -11,10 +11,18 @@ from reportlab.lib.units import inch
 from reportlab.lib import colors
 from datetime import datetime
 
-from api_key import api_key
+import os
+from dotenv import load_dotenv
 
+# Load environment variables
+load_dotenv()
+
+# Get API key from environment
+api_key = os.getenv('API_KEY')
 # Configure Google AI
 genai.configure(api_key=api_key)
+
+# Rest of your code...
 
 # Page configuration
 st.set_page_config(
