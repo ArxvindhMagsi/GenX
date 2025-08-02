@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GenX Logo]([https://via.placeholder.com/200x80/4f46e5/ffffff?text=GenX](https://github.com/ArxvindhMagsi/GenX/blob/main/Genx.jpg))
+![GenX Logo]([Genx.jpg))
 
 **Intelligent Document Analysis & Report Generation**
 
@@ -12,8 +12,6 @@ Transform your images and documents into comprehensive, professional reports pow
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/ArxvindhMagsi/GenX.svg?style=social&label=Star)](https://github.com/ArxvindhMagsi/GenX)
-
-[Live Demo](https://your-demo-link.com) • [Documentation](#documentation) • [Report Bug](https://github.com/ArxvindhMagsi/GenX/issues) • [Request Feature](https://github.com/ArxvindhMagsi/GenX/issues)
 
 </div>
 
