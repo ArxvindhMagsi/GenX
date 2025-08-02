@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GenX Logo](https://via.placeholder.com/200x80/4f46e5/ffffff?text=GenX)
+![GenX Logo]([https://via.placeholder.com/200x80/4f46e5/ffffff?text=GenX](https://github.com/ArxvindhMagsi/GenX/blob/main/Genx.jpg))
 
 **Intelligent Document Analysis & Report Generation**
 
