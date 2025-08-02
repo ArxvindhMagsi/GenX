@@ -16,7 +16,8 @@ Transform your images and documents into comprehensive, professional reports pow
 </div>
 
 ---
-
+## 🎥 Video Demo of the Objective
+https://youtu.be/PyVgGYHQpmg?si=ihhcqD8Pm5Fu079o
 ## Overview
 
 GenX revolutionizes document analysis by combining cutting-edge AI technology with intuitive design. Upload any image or document, and watch as our intelligent system transforms it into detailed, professional reports in seconds.
